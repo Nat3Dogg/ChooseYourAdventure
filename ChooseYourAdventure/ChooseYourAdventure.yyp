@@ -154,7 +154,7 @@
             "Key": "877d69c3-31ee-4a4d-a921-f4b8c1c28e80",
             "Value": {
                 "id": "b75ee956-c6db-42f4-b60f-71961b6547ea",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\\rm_sandworld\\rm_sandworld.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -180,6 +180,14 @@
                 "id": "d492d9bb-b575-47d9-a3a7-33d7f4f83498",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "bb87df61-bdb4-4ada-b50e-e5ce671e0aae",
+            "Value": {
+                "id": "9a05f09d-41ca-4f15-a67d-3349ee6b5915",
+                "resourcePath": "rooms\\rm_backyard\\rm_backyard.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
