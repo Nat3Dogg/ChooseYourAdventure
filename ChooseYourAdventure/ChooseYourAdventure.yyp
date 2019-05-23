@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0056e984-e6bb-47c8-9fbe-73f1a5297b79",
+            "Value": {
+                "id": "7a26a7c3-6b64-4586-8ab7-0d1b0fca4411",
+                "resourcePath": "objects\\obj_floor\\obj_floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0af1414a-5470-48c7-aacd-fe8ebeec2e0d",
             "Value": {
                 "id": "57f91337-94b3-48b2-81b6-b738934319df",
@@ -71,11 +79,27 @@
             }
         },
         {
+            "Key": "341490bb-d95c-40f3-a067-ce5e081ff672",
+            "Value": {
+                "id": "d1213156-50b5-49ec-b035-606c8309fa9c",
+                "resourcePath": "sprites\\spr_desert_foreground\\spr_desert_foreground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a7dbd22-3ba8-43f5-8e55-cedf28a4092f",
             "Value": {
                 "id": "3031b330-275c-4161-ab28-192694bc1786",
                 "resourcePath": "views\/3a7dbd22-3ba8-43f5-8e55-cedf28a4092f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4581d317-a03e-4e10-af54-003be57f4b85",
+            "Value": {
+                "id": "8cbb519a-5288-42f3-b001-40f7bb1704f9",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -127,6 +151,22 @@
             }
         },
         {
+            "Key": "71930759-d6f6-4ce5-8808-4284ecca8ef8",
+            "Value": {
+                "id": "75ff5f79-6824-42b2-b3d8-ffe60de3526d",
+                "resourcePath": "sprites\\spr_bucket\\spr_bucket.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "72c276f8-63b8-461a-a801-b09aa7604111",
+            "Value": {
+                "id": "a0d2a3f6-a58b-4961-a853-10772755c6c3",
+                "resourcePath": "rooms\\roomdesert\\roomdesert.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "76662597-a48c-4104-9c2b-2a96fb169f8a",
             "Value": {
                 "id": "f566be44-c912-463a-8065-21602c4891b2",
@@ -156,6 +196,14 @@
                 "id": "b75ee956-c6db-42f4-b60f-71961b6547ea",
                 "resourcePath": "rooms\/room0\/room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8d558040-d020-4856-8119-35a961635d48",
+            "Value": {
+                "id": "5982a7bf-dc49-4c3c-a568-74f114e3b049",
+                "resourcePath": "objects\\obj_dessert_foreground\\obj_dessert_foreground.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,11 +255,27 @@
             }
         },
         {
+            "Key": "ca41b8cd-32c9-48f7-ac85-0df7f2eb45b7",
+            "Value": {
+                "id": "a0d48d49-a63d-40f7-899b-cd6c55f330d6",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "73d52c65-ff16-47d8-971a-3ecd8c934fd6",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "db396912-e757-4eb4-9cf7-71fffbd32fa4",
+            "Value": {
+                "id": "d26f2646-2b67-4d3a-9482-fa4309040ad8",
+                "resourcePath": "rooms\\roomtest\\roomtest.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -268,6 +332,14 @@
                 "id": "33218ad1-7335-4016-b74b-f8a5034d69d8",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5750816-a98d-409f-9cb3-9332bc98407c",
+            "Value": {
+                "id": "21e1aac1-bd57-4e58-807f-84af376cd14b",
+                "resourcePath": "sprites\\sprFloor\\sprFloor.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
