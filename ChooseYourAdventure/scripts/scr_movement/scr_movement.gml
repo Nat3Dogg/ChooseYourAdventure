@@ -1,5 +1,6 @@
 // VARIABLES
 
+/*
 left = keyboard_check_pressed(vk_left)
 right = keyboard_check_pressed(vk_right)
 up = keyboard_check_pressed(vk_up)
@@ -48,4 +49,4 @@ if down_stop{
 	speed = 0
 }
 
-
+*/
