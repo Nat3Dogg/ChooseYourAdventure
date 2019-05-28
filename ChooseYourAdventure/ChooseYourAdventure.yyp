@@ -397,6 +397,14 @@
                 "resourcePath": "sprites\\sprFloor\\sprFloor.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fca5e22c-6fdb-4c01-95ea-124f7e54c199",
+            "Value": {
+                "id": "29261a16-78ac-4f55-a933-c8b5752b8424",
+                "resourcePath": "sprites\\spr_backyard\\spr_backyard.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
