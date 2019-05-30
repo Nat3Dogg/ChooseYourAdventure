@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "97e573d2-f307-4354-bcb0-6dacd62a4ab4",
+            "Value": {
+                "id": "0bd9b28b-ccab-496b-a53d-6cf68e3b024d",
+                "resourcePath": "rooms\\roomwater\\roomwater.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "98bcc415-93d6-4986-ba52-04c9e6ed9108",
             "Value": {
                 "id": "a20e83a4-94fe-418c-ab40-5efd7902ea1b",
