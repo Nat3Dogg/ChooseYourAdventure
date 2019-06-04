@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "29aa95c4-7f77-42f9-b1e2-d907f16bbdbf",
+            "Value": {
+                "id": "55490c41-8506-4bd4-b18a-bf5227a7b25f",
+                "resourcePath": "tilesets\\tileset6\\tileset6.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "2e9c1ac5-30b9-429b-bf40-e5154aa80a43",
             "Value": {
                 "id": "7691af2c-7016-411e-9984-b0d31c6370dc",
@@ -156,6 +164,14 @@
                 "id": "9d7a5aef-c49a-46be-92f3-50c7c1a3b253",
                 "resourcePath": "views\/522a46d0-1d36-42be-a709-80dd99424d5c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59c49c1f-b492-4fd4-80f9-a6c62bbe1cdc",
+            "Value": {
+                "id": "0838a0fa-6cff-4ccb-afc6-4bd35bb7f93c",
+                "resourcePath": "tilesets\\tileset5\\tileset5.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -271,6 +287,14 @@
             }
         },
         {
+            "Key": "92a77a1d-6126-44b5-8493-d9df33578f75",
+            "Value": {
+                "id": "bb500506-1c1c-451c-9e34-33676cef0076",
+                "resourcePath": "sprites\\spr_Tree\\spr_Tree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "96bb2172-6981-4631-850c-5d3c66bd9e8a",
             "Value": {
                 "id": "a53e4e04-43dc-4799-bd92-faa4a9a372dd",
@@ -319,6 +343,14 @@
             }
         },
         {
+            "Key": "ad75061c-7292-43d4-b8a7-d9794e518229",
+            "Value": {
+                "id": "3af3db9c-7519-49fd-ae77-a4fb83714819",
+                "resourcePath": "sprites\\sprite18\\sprite18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bb87df61-bdb4-4ada-b50e-e5ce671e0aae",
             "Value": {
                 "id": "9a05f09d-41ca-4f15-a67d-3349ee6b5915",
@@ -348,6 +380,14 @@
                 "id": "47d36838-5a6a-4605-ae38-c7b0bba90096",
                 "resourcePath": "sprites\\spr_Character_Rest\\spr_Character_Rest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c27b30d6-2f53-40a0-b3c2-171ac4e513a4",
+            "Value": {
+                "id": "9084dbb7-6fab-4582-9339-602ba809a76a",
+                "resourcePath": "rooms\\rm_Forest\\rm_Forest.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
